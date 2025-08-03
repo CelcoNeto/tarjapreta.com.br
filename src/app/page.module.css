@@ -1,0 +1,14 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100vw;
+  height: calc(100vh - 114px);
+}
+
+.footer {
+  display: flex;
+  padding: 3rem;
+  align-items: center;
+  justify-content: center;
+}
