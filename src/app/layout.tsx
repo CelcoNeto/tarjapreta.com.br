@@ -13,8 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Tarja Preta - CBJR cover",
-  description: "Tributo ao Charlie Brown jr",
+  title: "Tarja Preta | Tributo ao Charlie Brown Jr",
+  description:
+    "A energia do Charlie Brown Jr ao vivo! Banda cover dedicada a manter viva a atitude, o som e a mensagem de Chorão & cia. Shows autênticos, cheios de emoção e nostalgia.",
 };
 
 export default function RootLayout({
